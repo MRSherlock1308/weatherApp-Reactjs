@@ -10,15 +10,15 @@ function App() {
       </div>
       <div className="footer-info">
         <a href="https://www.linkedin.com/in/vishnu-shankar-1352181b1/">
-          Vishnu Shankar linkedin
+           Developed by Vishnu Shankar
         </a>{" "}
-        | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
-          Gaurav Ghai
+        | {" "}   
+        <a target="_blank" href="https://www.linkedin.com/in/vishnu-shankar-1352181b1/">
+            Linkedin
         </a>{" "}
-        | Powered by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
-          HTML HINTS
+        | {" "}
+        <a target="_blank" href="https://www.instagram.com/vishnu_4721/">
+          instagram
         </a>
       </div>
     </React.Fragment>
@@ -26,3 +26,4 @@ function App() {
 }
 
 export default App;
+
